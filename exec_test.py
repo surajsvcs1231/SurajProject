@@ -1,0 +1,5 @@
+exec("print('Hello')")
+exec("list_str=[5,7,9,1]")
+print("Hello",list_str)
+exec("def a():print('Hi How are you')")
+print(a())

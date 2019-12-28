@@ -1,0 +1,12 @@
+from numpy import *
+#arr=array([5,6],[2,3]#)
+arr=linspace(0,15,3)
+print(arr)
+arr1=arange(1,15,2)
+print(arr1)
+arr2=logspace(1,40,5)
+print(arr2)
+arr3=zeros(5)
+print(arr3)
+arr4=ones(4)
+print(arr4)
